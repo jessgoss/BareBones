@@ -1,5 +1,7 @@
+<!DOCTYPE HTML>
 <html>
 <head>
-<title></title>
+<title><?php bloginfo('name'); ?></title>
 </head>
+
 <body>
